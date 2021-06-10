@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fabbi-agora",
+  "private_key_id": "aa7f2153e524087db4f17073b14effddb66fb1ea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCwyb3rzzBW/FMb\nNsgJiMP1hOJtf7vsIWEo9Bkv+5GxM4E4WXqRXp+plG5qMjo1hh+gPnG2ZDZ5Y5Vf\nP0rRVl+o7HWK0UA5Vuu6DpmCKqVSLfuSh4SApMZuD98mrAUEgekRnVSkoen3g3pP\nGknigwRc391R2nz++AjevHoopLixAJv1xCIeCY/09fbb/8cxsmm5LHqq0HJnSxhW\nWURdUqsE4eoAnv1EnAIsywoS4m7FsewhIxSm9v3MSbdlGOi/WpRn7pHP+SthA9CC\nllJr3ntfXyX22o57+NAP2CxMdr5QJLk14EdiZ7TsX7qPZKXIOp3ecXtbc6YO5mD3\n1oKYjlCDAgMBAAECggEACrYyBhylnRnx0Sdh8Q3yu1+NEhj8veNWcq6V69JuTkAg\nKZ8dLilIhE+NkpGKYzkhlUo+vOJ82Hw3IGc5R4VqnbD9jx3FGDjlQkfTLk/2L2fA\n2kg+OCIWDUa9WEwn1NFM2gEExyHEGcD6J9qytKW/L9rbv8WzpwXafpdSiGSerH7J\nXtXD+vJt9669Y0bM+A1mm55oFLILnMabBvTNV/kF4ZHDktwEEdkQpcPyV+B+Hv7V\n0j/w2lCAI+ier76sicHnsjkaaJtsCYrrG7ooTqs2FgJrH6QsDAAeW+SQXV60Jeip\n9/pmZNwxyEE9ajZnjcj9t6Ebqza9Nl9M9GzvLOnMOQKBgQDt4FzZX0x2QMAQw1Or\nU393qR5/NdWtgp15FPIqwtAZQXj2/NDE/Zpl2EE8gqUy6y+OSYyKQjpsbERvVP1j\niUb5s4EhKlgdPRcxuKonQmUx3uDMmRVTqIPbFaNjHeq0k8pgMwFiiZ6FEqsc78fr\nAaMJtuQKhknph8EmbKe+oX7NSwKBgQC+QeMfKbiIg3fZpyPnOZ1WAZESHspxo5oB\nDgz8Yt0l3Vlk2DSJNmyxdrzFrWrMpDc5+nQHjUv4zDWvx0ydA4Xo+HbGXg1lAAqM\nBgzJl0IGl6WNG4+CwKiBBnzhxrdMxD535XQwNSUrdLy1mq/6s9e5iwi8bc2IYlQU\nsf2dkx4eqQKBgQCPytBVlgXidcGkYG5zYkXrT4/f1esUt5/5UXAR6TFiEvHMW4bX\njXWHmvHUYiT6YrCcklkiOmaWo9u6cOW7BYCh8KBeK/qXshYTOE2i7b++Jbw98Uuz\nBmquRKY/hBYckjoDbNGpfwcT6fUFyOxQYuzrMmMm+YY0ZJudXpEH6xd7gQKBgQCB\nogcMvrKbYWiSBo4yCFGpvluISy6JC33tZhN3DC2+lPlJ+v6g11JsAIlS73wrf2CZ\nwoq4co/nL80MvfD3suTU/iZ/tqnNvZ9yFNU1rjgwobcNVFAOORMXBsKkW2+dgMFH\nlDH8ftmaqGnEG2f4m/1K0O7c5Lv8R3MevsAdU5ZcMQKBgQCtibIuIs8MU4l2/oBm\nzwvXOdIHqfWUzMMxSMq+aSFK4TO2wZqsVcwp/k+0Tpd2Geg3DHUpx9PkPkawQthW\nJAA9MhysMvJL/j4J/swq7EnJAsRgWep0DsJdhDeeugE1LTF93UMK0Jv3sgc/Engk\nW3HKzdM07DjahpySanSVV6OoZA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-b6yau@fabbi-agora.iam.gserviceaccount.com",
+  "client_id": "115992215620097529867",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-b6yau%40fabbi-agora.iam.gserviceaccount.com"
+}
